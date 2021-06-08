@@ -943,4 +943,9 @@ css
         2. active : 마우스로 클릭하는 동안에먼 해당부분을 선택 
                 a:active 
         3. focus : 대화형 콘텐츠(input, img, tabindex) 에서 해당부분이 포커스 된 동안에만 해당부분을 선택  
+    
+    
+    
+    
+    
 
